@@ -56,7 +56,7 @@
   .header p{
     padding: 20px 0;
     color: var(--sec-text-color);   
-}
+    line-height: 1.3;}
  .projects .container{
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
