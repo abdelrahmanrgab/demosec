@@ -47,7 +47,8 @@
   }
   @media(max-width:768px){
     .header{
-      width: 80%;
+      width: 100%;
+      color: red;
     }
   }
   .header h1{
